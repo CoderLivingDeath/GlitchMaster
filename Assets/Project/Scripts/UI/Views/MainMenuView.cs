@@ -5,7 +5,7 @@ using Zenject;
 
 public class MainMenuView : MonoBehaviour
 {
-    private const float SETTINGSMENU_ANIMATION_HIDE_POSITION_X = 600f;
+    private const float SETTINGSMENU_ANIMATION_HIDE_POSITION_X = 640f;
     private const float SETTINGSMENU_ANIMATION_HIDE_POSITION_Y = 0f;
 
     private const float SETTINGSMENU_ANIMATION_SHOW_POSITION_X = 0f;
