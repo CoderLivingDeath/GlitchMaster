@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 1a6b955f93d68f740a3eedb54855faf0
+guid: ae5cb7c876702a94d9aa7e57b4c459a8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 824079452524938507
-    second: RoboCat_Walk_0
-  - first:
-      213: 6298893308270610061
-    second: RoboCat_Walk_1
-  - first:
-      213: 1063186637641550333
-    second: RoboCat_Walk_2
-  - first:
-      213: 8699845568819733066
-    second: RoboCat_Walk_3
+      213: 4813519347717815016
+    second: Platform_Fly_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -135,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RoboCat_Walk_0
+      name: Platform_Fly_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 25
-        height: 32
+        width: 96
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,74 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b05827a55e7bf6b00800000000000000
-      internalID: 824079452524938507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RoboCat_Walk_1
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 0
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d860e85471a2a6750800000000000000
-      internalID: 6298893308270610061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RoboCat_Walk_2
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df9019a2d9231ce00800000000000000
-      internalID: 1063186637641550333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RoboCat_Walk_3
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 0
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a42a14a737f0cb870800000000000000
-      internalID: 8699845568819733066
+      spriteID: 8eab038f75e0dc240800000000000000
+      internalID: 4813519347717815016
       vertices: []
       indices: 
       edges: []
@@ -236,10 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RoboCat_Walk_0: 824079452524938507
-      RoboCat_Walk_1: 6298893308270610061
-      RoboCat_Walk_2: 1063186637641550333
-      RoboCat_Walk_3: 8699845568819733066
+      Platform_Fly_0: 4813519347717815016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
